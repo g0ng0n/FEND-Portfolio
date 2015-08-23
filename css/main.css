@@ -86,6 +86,9 @@ p{
     vertical-align: middle;
     padding-bottom: 5px;
 }
+img {
+    max-width: 100%;
+}
 
 .section-header{
     text-transform: uppercase;
